@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 230" width="470" height="230">
+  <title>haai — Wordmark</title>
+  <rect width="470" height="230" rx="40" fill="#F3F4F1"/>
+  <g fill="none" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <!-- h a -->
+    <g stroke="#1A2227">
+      <path d="M60 42 V170"/>
+      <path d="M60 132 Q60 96 95 96 Q130 96 130 132 V170"/>
+      <circle cx="212" cy="133" r="37"/>
+      <path d="M249 96 V170"/>
+    </g>
+    <!-- a i : the AI inside haai -->
+    <g stroke="#2350B0">
+      <circle cx="330" cy="133" r="37"/>
+      <path d="M367 96 V170"/>
+      <path d="M410 100 V170"/>
+    </g>
+  </g>
+  <!-- the dot on the i is a fin -->
+  <path d="M394 74 C402 62 412 48 428 38 C423 50 423 63 430 74 Z" fill="#2350B0"/>
+  <!-- waterline -->
+  <path d="M40 204 H430" stroke="#1A2227" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 9" opacity=".5"/>
+</svg>
